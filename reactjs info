@@ -1,0 +1,39 @@
+React Js Tutorials For Beginners
+https://www.codewithharry.com/videos/react-tutorials-in-hindi-1/
+
+Next.js Tutorials For Beginners
+https://www.codewithharry.com/videos/nextjs-tutorial-in-hindi-1/
+
+Ultimate JavaScript Course
+https://www.codewithharry.com/videos/ultimate-js-tutorial-hindi-1/
+
+Tailwind Course In Hindi
+https://www.codewithharry.com/videos/tailwind-course-in-hindi-1/
+
+Sanity.io Tutorials in Hindi
+https://www.codewithharry.com/videos/sanity-tutorial-in-hindi-1/
+
+Strapi Tutorial For Beginners
+https://www.codewithharry.com/videos/strapi-tutorial-in-hindi-1/
+
+Python Tutorials - 100 Days of Code
+https://www.codewithharry.com/videos/python-100-days-of-code-1/
+
+
+
+npm install(installs all node modules and packages required)
+
+default export and named export:
+say you have 2 files module1.mjs and module2.mjs
+module1.mjs                      |    module2.mjs
+const a="HARRY";                 |    import dza,{a,c,d} from './module1mjs'
+const b="SEJAL";                 |    console.log(dza);                        //with default export                      
+const c="JB";                    |    console.log(a);                          //named export
+const d="FRANCIS";               |    console.log(c);                          //named export
+export default b;                |    console.log(d);                          //named export
+export {a};                      |
+export {c};                      |
+export {d};                      |
+
+Props are a type of object where the value of attributes of a tag is stored. 
+hooks: binaa class banaye class ke features use karne me madat karte hai
